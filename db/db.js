@@ -11,7 +11,7 @@ function connectDatabase() {
             // MySQL username,
             user: 'root',
             // TODO: Add MySQL password
-            password: 'fnlfntsyx',
+            password: '123456',
             database: 'movie_db'
             },
             console.log(`Connected to the movie_db database.`)
